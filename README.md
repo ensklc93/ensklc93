@@ -3,6 +3,7 @@
 ###
 
 <p align="left">A certified full stack web developer with a background in law and translation.  Curious & passionate about web technologies.</p>
+<p>Based in Hamburg/Germany</p>
 
 ###
 
